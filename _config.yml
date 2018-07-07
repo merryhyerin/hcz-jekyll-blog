@@ -1,12 +1,12 @@
-title: John Smith
+title: Hyerin Kim
 description: My Personal Blog
-author: John Smith
+author: Hyerin Kim
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/merryhyerin
+about: Hanwha Systems; Korea Univ.
 
 baseurl: ""
-url: ""
+url: "https://merryhyerin.github.io/"
 
 allowsearch: true
 
