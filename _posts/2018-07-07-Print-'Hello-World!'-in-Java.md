@@ -6,6 +6,8 @@ categories: others
 
 <h1>Algorithm training</h1>
 
+<br>
+
 <p>BAEKJOON > 문제 > 단계별로 풀어보기 > 입/출력 받아보기 > 2557</p>
 
 <h3>Problem</h3>
