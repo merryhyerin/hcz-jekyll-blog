@@ -13,11 +13,11 @@ categories: others
 <h3>Problem</h3>
 
 <blockquote><p>
-다음과 같이 출력하시오.
-|\_/|
-|q p|   /}
-( 0 )"""\
-|"^"`    |
+다음과 같이 출력하시오.<br>
+|\_/|<br>
+|q p|   /}<br>
+( 0 )"""\<br>
+|"^"`    |<br>
 ||_/=\\__|</p></blockquote>
 
 <h3>Code</h3>
